@@ -39,6 +39,7 @@ body{
     overflow: hidden;
     transition: .5s;
 }
+/* javascript styling */
 .accordian .content-container.active .answer{
     height: 150px;
     overflow-y: auto;
